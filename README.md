@@ -14,7 +14,13 @@
 
   <span>I am an responsible web development, demonstrating a high degree of integrity and work loyalty. My approach to problem-solving is driven by a pursuit of optimal solutions and an aim to achieve the best possible results.</span >
 
-<h3 style="margin: 25px 0px 15px 0px;"> <font color="#E5E5E5" align="right"><b>Connect:</b></font> </h3> <div style="display: flex; align-items: center; margin-bottom: 10px;"> <img src="https://img.shields.io/badge/phone-%231E77B5.svg?style=for-the-badge" alt="Phone" /> <a href="tel:+1-555-123-4567" target="_blank" style="margin-left: 10px; font-size: 16px; font-weight: bold; color: #1E77B5; text-decoration: none;">+1-555-123-4567</a> </div> <div style="display: flex; align-items: center; margin-bottom: 10px;"> <img src="https://img.shields.io/badge/email-%231E77B5.svg?style=for-the-badge" alt="Email" /> <a href="mailto:john.doe@example.com" target="_blank" style="margin-left: 10px; font-size: 16px; font-weight: bold; color: #1E77B5; text-decoration: none;">john.doe@example.com</a> </div>
+<h3 style="margin: 25px 0px 15px 0px;"> <font color="#E5E5E5" align="right"><b>Connect:</b></font> </h3>
+
+Phone
+<button style="background-color: #1E77B5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">+1-555-123-4567</button>
+
+Email
+<button style="background-color: #1E77B5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">john.doe@example.com</button>
 
   <h3 style="margin: 25px 0px 15px 0px;">
     <font color="#E5E5E5" align="right"><b>Skills:</b></font>
