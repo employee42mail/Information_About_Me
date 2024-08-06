@@ -17,10 +17,10 @@
 <h3 style="margin: 25px 0px 15px 0px;"> <font color="#E5E5E5" align="right"><b>Connect:</b></font> </h3>
 
 Phone
-<button style="background-color: #1E77B5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">+1-555-123-4567</button>
+<button style="background-color: #1E77B5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;" onclick="location.href='tel:+1-555-123-4567'">+1-555-123-4567</button>
 
 Email
-<button style="background-color: #1E77B5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">john.doe@example.com</button>
+<button style="background-color: #1E77B5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;" onclick="location.href='mailto:john.doe@example.com'">john.doe@example.com</button>
 
   <h3 style="margin: 25px 0px 15px 0px;">
     <font color="#E5E5E5" align="right"><b>Skills:</b></font>
